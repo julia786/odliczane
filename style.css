@@ -1,6 +1,6 @@
 body
 {
-background-color: 	#8080;
+background-color: 	#9080;
 font-family: Verdana;
 font-size: 24px;
 color: yellow;
@@ -34,7 +34,7 @@ color: yellow;
 #dataWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #909080;
 }
 
 #description
