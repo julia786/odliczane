@@ -50,7 +50,7 @@ color: yellow;
 	padding: 10px;
 	font-size: 12px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid pink;
 	letter-spacing: 3px;
 }
 #topBar
@@ -60,7 +60,7 @@ color: yellow;
 	padding: 10px;
 	font-size: 18px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid pink;
 	letter-spacing: 3px;
 	margin-bottom: 50px;
 }
